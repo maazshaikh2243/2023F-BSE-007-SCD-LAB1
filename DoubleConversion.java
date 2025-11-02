@@ -1,6 +1,6 @@
 public class DoubleConversion {
     public static void main(String[] args) {
-        
+        //THIS IS SCD LAB1
         // int num =10;
         // Integer mynum=num;//autoboxing
         // System.out.println(num);
@@ -23,4 +23,5 @@ public class DoubleConversion {
 
     }
 }
+
 
